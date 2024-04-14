@@ -22,6 +22,12 @@ Joining all tables for further analysis.
 # Results
 The analysis reveals insights such as the oldest businesses by continent, the distribution of business categories, and the industries with the most ancient establishments.
 
+# Key Insights:
+
+Oldest Business: Kongō Gumi, a construction company founded in 578 in Japan.
+Common Industries: Banking & Finance leads globally, followed by Distillers, Vintners, & Breweries, and Aviation & Transport.
+Continental Trends: Africa boasts the highest count of oldest businesses in Banking & Finance, while Europe dominates in Distillers, Vintners, & Breweries.
+
 # Technologies Used
 PostgreSQL: Used for querying the database.
 Jupyter Notebook: Used for executing SQL queries and documenting the project.
