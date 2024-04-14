@@ -4,15 +4,6 @@ An exploration of the world's oldest businesses using SQL to analyze data from B
 # Project Description
 This project investigates the oldest continuously operating businesses globally, their founding years, industries, and geographical distributions. The dataset used in this analysis includes information on business names, founding years, business categories, and countries.
 
-# Contents
-Project Description
-Data
-Queries
-Results
-Technologies Used
-Usage
-Contributing
-License
 # Data
 The data used in this project consists of three tables:
 
